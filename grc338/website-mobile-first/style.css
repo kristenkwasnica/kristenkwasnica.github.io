@@ -5,20 +5,26 @@ h1{
     width: 4em;
 }
 h2{
-    font-family: New Herman, bold;
+    font-family: new-herman, sans-serif;
+    font-weight: 700;
+    font-style: normal;
     text-transform: uppercase;
     padding: 1.5em 0em 0em 1em; 
     margin-bottom: 1em;
     border-bottom: 2px solid rgb(245,200,1); 
 }
 h3{
-    font-family: New Herman, bold;
+    font-family: new-herman, sans-serif;
+    font-weight: 700;
+    font-style: normal;
     font-style: italic;
     padding: 0em 0em 0em 1em;
     margin: 0em; 
 }
 p{
-    font-family: New Herman;
+    font-family: new-herman, sans-serif;
+    font-weight: 400;
+    font-style: normal;
     padding:0em 1.2em 0em 1em;
     margin:0.2em;
 }
@@ -42,7 +48,9 @@ figure{
     margin:0em;
 }
 ul{
-    font-family: New Herman, bold;
+    font-family: new-herman, sans-serif;
+    font-weight: 700;
+    font-style: normal;
     list-style: none;
     padding: 0em 0em 0em 0.5em;
     margin-top:0em;
