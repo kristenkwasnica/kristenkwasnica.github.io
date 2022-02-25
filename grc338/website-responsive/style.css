@@ -75,3 +75,12 @@ footer{
     padding: 0.5em 0em 0.5em 0em;
     margin-top: 1em;
 }
+@media screen and (min-width:40em){
+	header {
+    display: grid;
+    grid-template-columns: 10em auto;   
+}
+    nav ul {
+        padding-top: 5em;
+    }
+}
