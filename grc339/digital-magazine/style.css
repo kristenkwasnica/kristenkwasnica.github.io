@@ -1,0 +1,106 @@
+/*CSS document*/
+
+body {
+    margin: 3em;
+}
+
+div.container {
+    max-width: 60em;
+    margin: auto;
+}
+
+figure {
+    margin: 0;
+}
+
+img {
+    width: 100%;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+h1{
+    max-width: 6em;
+}
+
+h2{
+    font-family: catseye;
+    font-style: medium;
+    color: #d46e5e;
+    font-size: 1.5em;
+    margin-top: 1em;
+    margin-bottom: 0.2em;
+}
+
+figcaption{
+    font-family: proxima-nova;
+    font-weight: 300;
+    font-size: .7em;
+    font-style: normal;
+    color: #363537;
+}
+
+aside{
+    margin-top: 2em;
+}
+
+nav ul li a{
+    font-family: catseye;
+    font-style: medium;
+    font-size: 1.1em;
+    color: #0882a8;
+    margin-right: 0.5em;
+
+}
+
+ul li{
+    display: inline;
+}
+
+nav ul li a:hover{
+    color: #363537;
+}
+
+h3{
+    font-family: catseye;
+    font-weight: 500;
+    font-style: medium;
+    color: #d46e5e;
+    font-size: 1.5em;
+    margin-top: 1em;
+    margin-bottom: 0.2em;
+}
+
+a{
+    text-decoration: none;
+}
+
+p{
+    font-family: proxima-nova;
+    font-weight: 300;
+    font-style: normal;
+    color: #363537;
+    padding: auto;
+}
+
+footer{
+    background-color: #d46e5e;
+    padding: 0.1em;
+    font-family: proxima-nova;
+    font-weight: 300;
+    font-style: normal;
+    margin-top: 2em;
+}
+
+footer p{
+    color:#fafafa;
+    margin: 0.5em;
+
+}
+
+
+
+    }
